@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanLi&show_icons=true&theme=radical&hide=prs,issues,contribs)
+
+![](https://komarev.com/ghpvc/?username=EvanLi&color=blue&label=Profile+Views)
+
+*Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter).*
