@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanLi&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
-![](https://komarev.com/ghpvc/?username=EvanLi&color=blue&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/EvanLi?color=red) ![](https://komarev.com/ghpvc/?username=EvanLi&color=blue&label=Profile+Views)
 
-*Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter).*
+*Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) and [Shields.io](https://github.com/badges/shields).*
