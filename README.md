@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/EvanLi?color=red) ![](https://komarev.com/ghpvc/?username=EvanLi&color=blue&label=Profile+Views)
 
 *Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) and [Shields.io](https://github.com/badges/shields).*
+
+### Sponsor me
+
+[Buy Me a Coffee](https://afdian.net/a/EvanLi/plan)
+
+[afdian 爱发电 EvanLi](https://afdian.net/a/EvanLi/plan)
