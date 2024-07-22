@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ### Sponsor me
 
-[Buy Me a Coffee](https://afdian.net/a/EvanLi/plan)
+[Buy Me a Coffee | Alipay & WeChat Pay](https://afdian.com/a/EvanLi/plan)
 
-[afdian 爱发电 EvanLi](https://afdian.net/a/EvanLi/plan)
+[afdian 爱发电 EvanLi | 支付宝/微信支付](https://afdian.com/a/EvanLi/plan)
